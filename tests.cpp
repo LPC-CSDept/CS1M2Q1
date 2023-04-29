@@ -2,7 +2,7 @@
 #define CATCH_CONFIG_MAIN // defines main() automatically
 #include <iostream>
 #include "catch.hpp"
-#include "Q1.hpp"
+#include "main.hpp"
 
 TEST_CASE("Ex1 makeRecord() ", "[example]")
 {
