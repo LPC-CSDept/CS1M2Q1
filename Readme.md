@@ -9,14 +9,12 @@
 
 ### Midterm 2: Question 1
 
-### Complete the "Q1.cpp"
-
-### Complete the "Q1.hpp"
+### Complete the "main.hpp"
 
 > Complete functions <br>
 
 > > To run "main.hpp" locally, you can use the "main.cpp". <br>
-> > g++ --std=c++17 main.cpp Q1.cpp<br>
+> > g++ --std=c++17 main.cpp <br>
 > > ./a.out
 
 <!--
